@@ -3,7 +3,8 @@ This is a toy implementation of the Pedersen Hash function used to
 illustrate several of its vulnerabilities when the requirements on the
 encoding function are not followed properly.
 
-It accompanies the blog post "TKTK" hosted on NCC's Research Platform at
+It accompanies the blog post "Generating Collisions on the Pedersen Hash Function" 
+hosted on NCC Group's Research Platform at
 https://research.nccgroup.com/?p=19303&preview=true
 """
 
