@@ -3,9 +3,9 @@ This is a toy implementation of the Pedersen Hash function used to
 illustrate several of its vulnerabilities when the requirements on the
 encoding function are not followed properly.
 
-It accompanies the blog post "Generating Collisions on the Pedersen Hash Function" 
+It accompanies the blog post "Breaking Pedersen Hashes in Practice" 
 hosted on NCC Group's Research Platform at
-https://research.nccgroup.com/?p=19303&preview=true
+https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 """
 
 # First we pick an elliptic curve with prime order:
